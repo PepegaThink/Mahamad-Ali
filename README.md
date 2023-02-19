@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahamad-Ali
+- 👋 Hi, I’m @PepegaThink
 - 👀 I’m interested in learning networks and how to code.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on ...
